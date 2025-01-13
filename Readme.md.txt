@@ -68,7 +68,7 @@ A robust Library Management System designed to manage books, members, staff, and
 
 ## Screenshots and Diagrams
 
-![ER Diagram](path/to/er-diagram.png)
+![ER Diagram](https://github.com/Sorvi007/Library-Management-System/blob/main/LMS_ER_DIAGRAM.png)
 
 ## License
 
